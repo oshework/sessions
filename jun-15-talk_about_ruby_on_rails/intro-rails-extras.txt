@@ -1,5 +1,5 @@
 Hardcore MVC/MVP papers
-http://www.object-arts.com/papers/TwistingTheTriad.PDF
+http://www.object-arts.com/downloads/papers/TwistingTheTriad.PDF
 http://www.wildcrest.com/Potel/Portfolio/mvp.pdf
 
 Thor
