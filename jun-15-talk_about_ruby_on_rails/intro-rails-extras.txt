@@ -1,0 +1,13 @@
+Hardcore MVC/MVP papers
+http://www.object-arts.com/papers/TwistingTheTriad.PDF
+http://www.wildcrest.com/Potel/Portfolio/mvp.pdf
+
+Thor
+http://yehudakatz.com/2008/05/12/by-thors-hammer/
+
+Spork
+https://github.com/timcharper/spork
+
+Terminitor
+https://github.com/achiu/terminitor - for win32 you need to clone and build locally. then install from local gem.
+
